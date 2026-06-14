@@ -156,7 +156,7 @@ if __name__ == "__main__":
         ],
         comments="Two circles are known to have participated in the event: '蒼音-souon-'(C-02) and '熊本WOTAKUrank': https://web.archive.org/web/20120127223632/http://vocalovers.jimdo.com/%E9%80%9F%E5%A0%B1/",
         description=None,
-        # last_edited="",
+            last_edited="2026.06.14",
     )
 
     print(f"Saving {Path(__file__).stem} database...")
